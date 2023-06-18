@@ -499,10 +499,10 @@ angular-ui-bootstrap@~2.5.6:
   resolved "https://registry.yarnpkg.com/angular-ui-bootstrap/-/angular-ui-bootstrap-2.5.6.tgz#23937322ec641a6fbee16498cc32452aa199e7c5"
   integrity sha512-yzcHpPMLQl0232nDzm5P4iAFTFQ9dMw0QgFLuKYbDj9M0xJ62z0oudYD/Lvh1pWfRsukiytP4Xj6BHOSrSXP8A==
 
-angular-validation-match@~1.7.1:
-  version "1.7.1"
-  resolved "https://registry.yarnpkg.com/angular-validation-match/-/angular-validation-match-1.7.1.tgz#7aeff3ae625818e4170e18c547a1ba1575a56279"
-  integrity sha1-eu/zrmJYGOQXDhjFR6G6FXWlYnk=
+angular-validation-match@~1.9.0:
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/angular-validation-match/-/angular-validation-match-1.9.0.tgz#03d82d0b983bf22366c5d22a0c291731625dcf80"
+  integrity sha512-luRJ1ogKvn1ZbLgdIoIStDpj5t1X5ykATGue1ylGeJphXACqFUUp8sUSRSVUMxAjZchQKVneTbjw8arZjwO4lw==
   dependencies:
     angular ">=1.3.0 <2.0.0"
 
