@@ -37,7 +37,7 @@
     "ng-mask": "~3.0.12",
     "ngstorage": "~0.3.11",
     "slipjs": "~1.2.0",
-    "spin.js": "~2.0.0"
+    "spin.js": "~2.3.2"
   },
   "devDependencies": {
     "angular-async-await": "^1.1.2",
