@@ -7376,10 +7376,10 @@ spdx-license-ids@^3.0.0:
   resolved "https://registry.yarnpkg.com/spdx-license-ids/-/spdx-license-ids-3.0.9.tgz#8a595135def9592bda69709474f1cbeea7c2467f"
   integrity sha512-Ki212dKK4ogX+xDo4CtOZBVIwhsKBEfsEEcwmJfLQzirgc2jIWdzg40Unxz/HzEUqM1WFzVlQSMF9kZZ2HboLQ==
 
-spin.js@~2.0.0:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/spin.js/-/spin.js-2.0.2.tgz#ab13eec1a8ee8323174c244665e5cb6c747778a9"
-  integrity sha1-qxPuwajugyMXTCRGZeXLbHR3eKk=
+spin.js@~2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/spin.js/-/spin.js-2.3.2.tgz#6caa56d520673450fd5cfbc6971e6d0772c37a1a"
+  integrity sha512-ryhCvKCRa6J5Fxa7Y+fnhE2a+e05JwfW5dxO82zPd0uDM9o+qp8p74BJUurjiqCqmDsWNvGOAxfqdD317XIedg==
 
 split-string@^3.0.1, split-string@^3.0.2:
   version "3.1.0"
