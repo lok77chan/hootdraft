@@ -5751,10 +5751,10 @@ ng-async@^1.1.0:
   resolved "https://registry.yarnpkg.com/ng-async/-/ng-async-1.1.0.tgz#1a22e2afbd1e128655db8ed9fcf8178352d46259"
   integrity sha1-GiLir70eEoZV247Z/PgXg1LUYlk=
 
-ng-file-upload@12.0.4:
-  version "12.0.4"
-  resolved "https://registry.yarnpkg.com/ng-file-upload/-/ng-file-upload-12.0.4.tgz#c22c18fa387c977904921bf2048c3d8d80ae4be9"
-  integrity sha1-wiwY+jh8l3kEkhvyBIw9jYCuS+k=
+ng-file-upload@12.2.13:
+  version "12.2.13"
+  resolved "https://registry.yarnpkg.com/ng-file-upload/-/ng-file-upload-12.2.13.tgz#01800f3872e526f95310f8477e99e4f12d0d8d14"
+  integrity sha512-YFjxwmVcNssYc8hq8eCbtYSliPnrObozSZRC9yg4GoDtI0xGKUeHgEcOh+nsMF/9cTzMB/lQZAYdf29oyQgF0g==
 
 ng-mask@~3.0.12:
   version "3.0.12"
